@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Binnika Singh Kamboj! 👋
 
-<!--
-**binnika03/binnika03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA Graduate (Marketing & Finance) | JG University, Ahmedabad  
+📍 Ahmedabad, Gujarat, India  
+💼 Open to opportunities in Data Analytics, Business Analysis & Digital Marketing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Data & Analytics:** Advanced Excel, Power BI (DAX), Tableau, SQL, SPSS, Power Query
+- **Marketing:** SEO, Content Strategy, Performance Marketing, GA4 Analytics, ORM
+- **Other:** Data Visualization, Stakeholder Communication, Market Research
+
+---
+
+## 📂 Featured Projects
+- 🔹 **AI in Business Strategy** – 629-respondent SPSS study (ANOVA & Chi-square)
+- 🔹 **YouTube Analytics Dashboard** – Power BI with DAX measures
+- 🔹 **Digital Marketing in Real Estate** – IIM Bangalore collaboration
+- 🔹 **Deloitte Data Analytics Simulation** – Forage Virtual Experience
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/binnika-singh-kamboj/)
+- 📧 binnika2003@gmail.com
